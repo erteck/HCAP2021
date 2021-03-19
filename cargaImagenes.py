@@ -6,3 +6,6 @@ IRGB = cv2.imread('004.jpg')
 print(IRGB)
 print(IRGB.shape)
 
+print("modificacion en la rama main")
+print(len(IRGB))
+
